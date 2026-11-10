@@ -1,0 +1,5 @@
+path	relation	target	note
+decisions/north-carolina-court-of-conference/1801/1-N-C-331.md	same-decision-as	decisions/north-carolina-superior-court/1801/1-N-C-262.md	the same decision in another reporter (1 N.C. 331 and 1 N.C. 262), same day and text (similarity 1.00); both kept
+decisions/north-carolina-court-of-conference/1801/1-N-C-341.md	same-decision-as	decisions/north-carolina-superior-court/1801/1-N-C-227.md	the same decision in another reporter (1 N.C. 341 and 1 N.C. 227), same day and text (similarity 1.00); both kept
+decisions/north-carolina-court-of-conference/1801/1-N-C-345.md	same-decision-as	decisions/north-carolina-superior-court/1801/1-N-C-236.md	the same decision in another reporter (1 N.C. 345 and 1 N.C. 236), same day and text (similarity 0.99); both kept
+decisions/north-carolina-court-of-conference/1801/1-N-C-361.md	same-decision-as	decisions/north-carolina-superior-court/1801/1-N-C-213.md	the same decision in another reporter (1 N.C. 361 and 1 N.C. 213), same day and text (similarity 1.00); both kept

@@ -36,13 +36,13 @@ reference	path
 1 Cam. & Nor. 33	decisions/north-carolina-court-of-conference/1800/1-N-C-33--cap-12122398.md
 1 Cam. & Nor. 33	decisions/north-carolina-court-of-conference/1800/1-N-C-33.md
 1 Cam. & Nor. 330	decisions/north-carolina-court-of-conference/1801/1-N-C-330.md
-1 Cam. & Nor. 331	decisions/north-carolina-court-of-conference/1801/1-N-C-331.md
-1 Cam. & Nor. 341	decisions/north-carolina-court-of-conference/1801/1-N-C-341.md
-1 Cam. & Nor. 345	decisions/north-carolina-court-of-conference/1801/1-N-C-345.md
+1 Cam. & Nor. 331	decisions/north-carolina-superior-court/1801/1-N-C-262.md
+1 Cam. & Nor. 341	decisions/north-carolina-superior-court/1801/1-N-C-227.md
+1 Cam. & Nor. 345	decisions/north-carolina-superior-court/1801/1-N-C-236.md
 1 Cam. & Nor. 353	decisions/north-carolina-court-of-conference/1801/1-N-C-353.md
 1 Cam. & Nor. 357	decisions/north-carolina-court-of-conference/1801/1-N-C-357.md
 1 Cam. & Nor. 36	decisions/north-carolina-court-of-conference/1800/1-N-C-36.md
-1 Cam. & Nor. 361	decisions/north-carolina-court-of-conference/1801/1-N-C-361.md
+1 Cam. & Nor. 361	decisions/north-carolina-superior-court/1801/1-N-C-213.md
 1 Cam. & Nor. 364	decisions/north-carolina-court-of-conference/1801/1-N-C-364.md
 1 Cam. & Nor. 367	decisions/north-carolina-court-of-conference/1802/1-N-C-367.md
 1 Cam. & Nor. 369	decisions/north-carolina-court-of-conference/1802/1-N-C-369.md
@@ -604,16 +604,16 @@ reference	path
 1 N.C. 33	decisions/north-carolina-court-of-conference/1800/1-N-C-33.md
 1 N.C. 33	decisions/north-carolina-superior-court/1799/1-N-C-33.md
 1 N.C. 330	decisions/north-carolina-court-of-conference/1801/1-N-C-330.md
-1 N.C. 331	decisions/north-carolina-court-of-conference/1801/1-N-C-331.md
+1 N.C. 331	decisions/north-carolina-superior-court/1801/1-N-C-262.md
 1 N.C. 34	decisions/north-carolina-superior-court/1793/1-N-C-34.md
-1 N.C. 341	decisions/north-carolina-court-of-conference/1801/1-N-C-341.md
-1 N.C. 345	decisions/north-carolina-court-of-conference/1801/1-N-C-345.md
+1 N.C. 341	decisions/north-carolina-superior-court/1801/1-N-C-227.md
+1 N.C. 345	decisions/north-carolina-superior-court/1801/1-N-C-236.md
 1 N.C. 353	decisions/north-carolina-court-of-conference/1801/1-N-C-353.md
 1 N.C. 357	decisions/north-carolina-court-of-conference/1801/1-N-C-357.md
 1 N.C. 36	decisions/north-carolina-court-of-conference/1800/1-N-C-36.md
 1 N.C. 36	decisions/north-carolina-superior-court/1796/1-N-C-36--cap-12124639.md
 1 N.C. 36	decisions/north-carolina-superior-court/1796/1-N-C-36.md
-1 N.C. 361	decisions/north-carolina-court-of-conference/1801/1-N-C-361.md
+1 N.C. 361	decisions/north-carolina-superior-court/1801/1-N-C-213.md
 1 N.C. 364	decisions/north-carolina-court-of-conference/1801/1-N-C-364.md
 1 N.C. 367	decisions/north-carolina-court-of-conference/1802/1-N-C-367.md
 1 N.C. 369	decisions/north-carolina-court-of-conference/1802/1-N-C-369.md
@@ -2040,7 +2040,7 @@ reference	path
 3 N.C. 99	decisions/north-carolina-superior-court/1799/3-N-C-99--cap-11963118.md
 3 N.C. 99	decisions/north-carolina-superior-court/1799/3-N-C-99--cap-11963237.md
 3 N.C. 99	decisions/north-carolina-superior-court/1799/3-N-C-99.md
-January,	decisions/north-carolina-court-of-conference/1801/1-N-C-331.md
+January,	decisions/north-carolina-superior-court/1801/1-N-C-262.md
 cap-11958140	decisions/north-carolina-superior-court/1797/3-N-C-1.md
 cap-11958175	decisions/north-carolina-superior-court/1797/3-N-C-1--cap-11958175.md
 cap-11958206	decisions/north-carolina-superior-court/1797/3-N-C-2.md
@@ -2701,13 +2701,13 @@ cap-12131138	decisions/north-carolina-court-of-conference/1801/1-N-C-318.md
 cap-12131177	decisions/north-carolina-superior-court/1797/1-N-C-73.md
 cap-12131287	decisions/north-carolina-court-of-conference/1801/1-N-C-330.md
 cap-12131390	decisions/north-carolina-superior-court/1797/1-N-C-73--cap-12131390.md
-cap-12131469	decisions/north-carolina-court-of-conference/1801/1-N-C-331.md
+cap-12131469	decisions/north-carolina-superior-court/1801/1-N-C-262.md
 cap-12131477	decisions/north-carolina-superior-court/1802/1-N-C-166.md
 cap-12131508	decisions/north-carolina-superior-court/1791/1-N-C-74.md
-cap-12131616	decisions/north-carolina-court-of-conference/1801/1-N-C-341.md
+cap-12131616	decisions/north-carolina-superior-court/1801/1-N-C-227.md
 cap-12131655	decisions/north-carolina-superior-court/1791/1-N-C-74--cap-12131655.md
 cap-12131713	decisions/north-carolina-superior-court/1801/1-N-C-199.md
-cap-12131774	decisions/north-carolina-court-of-conference/1801/1-N-C-345.md
+cap-12131774	decisions/north-carolina-superior-court/1801/1-N-C-236.md
 cap-12131816	decisions/north-carolina-superior-court/1792/1-N-C-75.md
 cap-12131899	decisions/north-carolina-superior-court/1801/1-N-C-209.md
 cap-12131942	decisions/north-carolina-court-of-conference/1801/1-N-C-353.md
@@ -2716,7 +2716,7 @@ cap-12132046	decisions/north-carolina-superior-court/1801/1-N-C-213.md
 cap-12132109	decisions/north-carolina-court-of-conference/1801/1-N-C-357.md
 cap-12132234	decisions/north-carolina-superior-court/1797/1-N-C-77.md
 cap-12132241	decisions/north-carolina-superior-court/1801/1-N-C-216.md
-cap-12132296	decisions/north-carolina-court-of-conference/1801/1-N-C-361.md
+cap-12132296	decisions/north-carolina-superior-court/1801/1-N-C-213.md
 cap-12132415	decisions/north-carolina-superior-court/1796/1-N-C-78.md
 cap-12132416	decisions/north-carolina-superior-court/1801/1-N-C-219.md
 cap-12132445	decisions/north-carolina-court-of-conference/1801/1-N-C-364.md
